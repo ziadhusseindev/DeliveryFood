@@ -1,6 +1,6 @@
 .place-order{
     display: flex;
-    align-items: start;
+    flex-wrap: wrap; 
     justify-content: space-between;
     gap: 50px;
     margin-top: 100px;
