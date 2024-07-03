@@ -1,8 +1,9 @@
-# React + Vite
+Delivery-Food | ReactJS and Pure CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+A responsive food delivery website using ReactJS and CSS, enabling users to browse and order food seamlessly
+from various restaurants , designed a fully responsive website that provides an optimal viewing experience across various
+devices, from mobile phones to desktop computers
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Live Demo : https://main--deliverfoody.netlify.app/
